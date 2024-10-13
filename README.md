@@ -53,5 +53,5 @@ To stop the timer at any time, click the "Stop" button.
 
 Acknowledgments
 
-* PyQt5 Documentation
-* Pygame Documentation
+* [PyQt5 Documentation](https://www.riverbankcomputing.com/static/Docs/PyQt5/)
+* [Pygame Documentation](https://www.pygame.org/docs/)
